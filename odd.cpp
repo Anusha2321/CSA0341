@@ -12,3 +12,7 @@ int main() {
     return 0;
 }
 
+INPUT:
+ENTER A NUMBER:3
+OUTPUT:
+3 IS ODD
