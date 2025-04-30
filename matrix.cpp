@@ -21,3 +21,15 @@ int main() {
     return 0;
 }
 
+
+INPUT:
+1 2
+3 4
+5 6
+7 8
+OUTPUT:
+    Product of the matrices:
+19 22
+43 50
+
+
